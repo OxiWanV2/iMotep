@@ -9,5 +9,7 @@ Premium Version
 
 indisponible...
 
+EPL-2.0 license
+
 
 
